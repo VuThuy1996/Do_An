@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "DoAn_TotNghiep\GUI.csproj", "{9F9AD02F-F5BF-46AC-AF29-7B37DE56D437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{6BA4B422-2969-4C67-9A93-14BEC2D7610A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATA", "DATA\DATA.csproj", "{BFFB6C27-D5E1-4B84-9F0F-2BCDE9F576B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9AD02F-F5BF-46AC-AF29-7B37DE56D437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9AD02F-F5BF-46AC-AF29-7B37DE56D437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9AD02F-F5BF-46AC-AF29-7B37DE56D437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9AD02F-F5BF-46AC-AF29-7B37DE56D437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA4B422-2969-4C67-9A93-14BEC2D7610A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA4B422-2969-4C67-9A93-14BEC2D7610A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA4B422-2969-4C67-9A93-14BEC2D7610A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA4B422-2969-4C67-9A93-14BEC2D7610A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFB6C27-D5E1-4B84-9F0F-2BCDE9F576B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFB6C27-D5E1-4B84-9F0F-2BCDE9F576B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFB6C27-D5E1-4B84-9F0F-2BCDE9F576B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFB6C27-D5E1-4B84-9F0F-2BCDE9F576B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
